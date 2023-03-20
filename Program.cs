@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Product telefono = new Product("Samsung", "Telefono bello", "4,90", 5);
+Console.WriteLine(telefono.id);
+Console.WriteLine(telefono.name);
